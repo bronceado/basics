@@ -1,2 +1,2 @@
-const version = 2;
+const version = 4;
 console.log('My application code')
